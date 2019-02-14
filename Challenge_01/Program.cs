@@ -10,6 +10,14 @@ namespace Challenge_01
     {
         static void Main(string[] args)
         {
+            ProgramUI program = new ProgramUI();
+            programRun();
+
+        }
+
+        private static void programRun()
+        {
+            throw new NotImplementedException();
         }
     }
 }
